@@ -1,0 +1,9 @@
+{
+  "task_id": "TASK-001",
+  "from_role": "analyst",
+  "to_role": "writer",
+  "created_files": [],
+  "confirmed_facts": [],
+  "open_issues": [],
+  "human_approval_needed": []
+}
