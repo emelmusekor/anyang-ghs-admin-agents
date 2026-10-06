@@ -1,0 +1,6 @@
+row_id,request_id,name,email,status,updated_at
+R01,A101,가상교사1,teacher1@example.test,active,2026-10-01T09:00
+R02,A102,가상교사2,teacher2@example.test,active,2026-10-01T09:10
+R03,A101,가상교사1,teacher1@example.test,cancelled,2026-10-02T10:00
+R04,A103,가상교사3,teacher2@example.test,active,2026-10-02T11:00
+R05,A104,,teacher4@example.test,active,2026-10-02T12:00
