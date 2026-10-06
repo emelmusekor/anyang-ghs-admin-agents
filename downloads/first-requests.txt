@@ -1,0 +1,7 @@
+첫 요청
+AGENTS.md를 먼저 읽어줘.
+source/notices/01_notice.md, 02_revision.md, 03_collection.md를 읽고
+행사일시·장소·신청마감·제출물만 추출해.
+값이 다르면 합치지 말고 파일명을 붙여.
+결과는 outputs/TASK-001/analyst/facts.md에 새로 저장해.
+source/는 수정하지 마.

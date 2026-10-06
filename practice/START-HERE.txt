@@ -1,6 +1,6 @@
 안양여고 AI 행정 에이전트 실습
 
-1. Antigravity에서 이 저장소 폴더를 프로젝트로 엽니다.
+1. Antigravity에서 저장소 폴더를 프로젝트로 엽니다.
 2. practice/AGENTS.md를 먼저 읽게 합니다.
 3. 처음에는 analyst 에이전트 하나만 사용합니다.
 4. source/notices/01_notice.md ~ 03_collection.md를 읽고 facts.md를 만들게 합니다.

@@ -1,0 +1,1 @@
+{"registration":{"active":2,"cancelled":1,"review":1,"error":1},"survey":{"valid_scores":[5,4,3],"invalid_rows":["S04"],"missing_rows":["S03"]},"budget":{"mismatch_items":["간식"],"budget_limit":600000},"calendar":{"conflicts":[["E01","E02"]]}}

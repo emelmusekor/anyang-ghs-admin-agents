@@ -1,0 +1,7 @@
+Windows 시작
+1. 저장소 ZIP 다운로드
+2. 압축 풀기
+3. Antigravity 설치
+4. 압축 푼 폴더를 프로젝트로 열기
+5. practice/START-HERE.txt 확인
+첫 실습에는 Git·Python·API 키가 필요하지 않음.
